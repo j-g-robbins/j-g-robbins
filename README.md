@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**j-g-robbins/j-g-robbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Jasper
+I'm an upcoming graduate at The University of Melbourne interested in People and Technology, currently looking for roles that allow me to work with both to enhance positive outcomes for people and communities.
 
-Here are some ideas to get you started:
+### 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bachelor of Science (Psychology) @ Unimelb**
+
+**Concurrent Diploma (Computing) @ Unimelb**
+
+### 🧑‍💻 Work Experience
+
+**💻 Junior Software Engineer @ Uptick (2023)**
+
+**🏢 Office Coordinator @ AmazingCo (2022)**
+
+**🏖️ Summer Vacationer @ Deloitte (Summer 2021)**
+
+**🏦 Technology Intern @ ANZ Bank (Summer 2020)**
+
+### 🙋‍♂️ Volunteering
+**🏕️ Camp Mentor @ Feel the Magic (2022-23)**
+
+**🧑‍🔬 President @ Science Students' Society (2021-22)**
+
+**👨‍🎓 Student Ambassador @ University of Melbourne (2020-21)**
+
+**📙 Education Officer @ Science Students' Society (2020-21)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasper-robbins/)
